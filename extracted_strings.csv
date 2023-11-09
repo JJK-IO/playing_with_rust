@@ -1,0 +1,11 @@
+example/Example1.swift,6,"Hello, World!"
+example/Example1.swift,10,Greeting: \(message)
+example/Example1.swift,14,Calculating sum of \(a) and \(b)
+example/Example1.swift,19,To be or not to be
+example/Example1.swift,27,Sum is \(sum)
+example/Example2.swift,7,My name is \(name) and I am \(age) years old.
+example/Example2.swift,11,John Doe
+example/Example2.swift,15,My favorite color is \(color).
+example/Example2.swift,18,blue
+example/Example2.swift,20,This is a warning message!
+example/Example2.swift,23,An error occurred while processing your request.
